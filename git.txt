@@ -1,0 +1,8 @@
+GIT
+===========
+Creating a new lib:
+
+
+new project in webstorm -
+VCS-> Import into version control -> share project on webstorm
+
